@@ -4,10 +4,10 @@
 
 ## SAML2.0核心OASIS标准 <a href="#saml-co re-2.0-os" id="saml-co re-2.0-os"></a>
 
-* [1 介绍](../content/1-介绍/README.md>)
-  * [1.1 符号](<saml-co re-2.0-os/1-jie-shao/1.1-fu-hao.md>)
-  * [1.2 Schema组织和命名空间](<saml-co re-2.0-os/1-jie-shao/1.2-schema-zu-zhi-he-ming-ming-kong-jian.md>)
-  * [1.3 常见数据类型](<saml-co re-2.0-os/1-jie-shao/1.3-chang-jian-shu-ju-lei-xing/README.md>)
+* [1 介绍](content/1-介绍/README.md)
+  * [1.1 符号](content/1-介绍/1.1-符号.md)
+  * [1.2 Schema组织和命名空间](content/1-介绍/1。2-Schema组织和命名空间.md)
+  * [1.3 常见数据类型](content/1-介绍/1.3-常见数据类型/README.md>)
     * [1.3.1 String值](<saml-co re-2.0-os/1-jie-shao/1.3-chang-jian-shu-ju-lei-xing/1.3.1-string-zhi.md>)
     * [1.3.2 URI值](<saml-co re-2.0-os/1-jie-shao/1.3-chang-jian-shu-ju-lei-xing/1.3.2-uri-zhi.md>)
     * [1.3.3 Time值](<saml-co re-2.0-os/1-jie-shao/1.3-chang-jian-shu-ju-lei-xing/1.3.3-time-zhi.md>)
