@@ -4,14 +4,14 @@
 
 ## SAML2.0核心OASIS标准 <a href="#saml-co re-2.0-os" id="saml-co re-2.0-os"></a>
 
-* [1 介绍](content/1-介绍/README.md)
-  * [1.1 符号](content/1-介绍/1.1-符号.md)
-  * [1.2 Schema组织和命名空间](content/1-介绍/1。2-Schema组织和命名空间.md)
-  * [1.3 常见数据类型](content/1-介绍/1.3-常见数据类型/README.md>)
-    * [1.3.1 String值](<saml-co re-2.0-os/1-jie-shao/1.3-chang-jian-shu-ju-lei-xing/1.3.1-string-zhi.md>)
-    * [1.3.2 URI值](<saml-co re-2.0-os/1-jie-shao/1.3-chang-jian-shu-ju-lei-xing/1.3.2-uri-zhi.md>)
-    * [1.3.3 Time值](<saml-co re-2.0-os/1-jie-shao/1.3-chang-jian-shu-ju-lei-xing/1.3.3-time-zhi.md>)
-    * [1.3.4 ID和ID引用值](<saml-co re-2.0-os/1-jie-shao/1.3-chang-jian-shu-ju-lei-xing/1.3.4-id-he-id-yin-yong-zhi.md>)
+* [1 介绍](1-介绍/README.md)
+  * [1.1 符号](1-介绍/1.1-符号.md)
+  * [1.2 Schema组织和命名空间](1-介绍/1。2-Schema组织和命名空间.md)
+  * [1.3 常见数据类型](1-介绍/1.3-常见数据类型/README.md)
+    * [1.3.1 String值](1-介绍/1.3-常见数据类型/1.3.1-String值.md)
+    * [1.3.2 URI值](1-介绍/1.3-常见数据类型/1.3.2-URI值)
+    * [1.3.3 Time值](1-介绍/1.3-常见数据类型/1.3.3-Time值)
+    * [1.3.4 ID和ID引用值](1-介绍/1.3-常见数据类型/1.3.4-ID和ID引用值)
 * [2 SAML断言](<saml-co re-2.0-os/2-saml-duan-yan/README.md>)
   * [2.1 Schema头和命名空间声明](<saml-co re-2.0-os/2-saml-duan-yan/2.1-schema-tou-he-ming-ming-kong-jian-sheng-ming.md>)
   * [2.2 名称标识符](<saml-co re-2.0-os/2-saml-duan-yan/2.2-ming-cheng-biao-shi-fu/README.md>)
