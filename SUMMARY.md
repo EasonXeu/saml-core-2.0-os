@@ -1,0 +1,30 @@
+# Table of contents
+
+* [首页](README.md)
+
+## SAML2.0核心OASIS标准 <a href="#saml-co re-2.0-os" id="saml-co re-2.0-os"></a>
+
+* [1 介绍](<saml-co re-2.0-os/1-jie-shao/README.md>)
+  * [1.1 符号](<saml-co re-2.0-os/1-jie-shao/1.1-fu-hao.md>)
+  * [1.2 Schema组织和命名空间](<saml-co re-2.0-os/1-jie-shao/1.2-schema-zu-zhi-he-ming-ming-kong-jian.md>)
+  * [1.3 常见数据类型](<saml-co re-2.0-os/1-jie-shao/1.3-chang-jian-shu-ju-lei-xing/README.md>)
+    * [1.3.1 String值](<saml-co re-2.0-os/1-jie-shao/1.3-chang-jian-shu-ju-lei-xing/1.3.1-string-zhi.md>)
+    * [1.3.2 URI值](<saml-co re-2.0-os/1-jie-shao/1.3-chang-jian-shu-ju-lei-xing/1.3.2-uri-zhi.md>)
+    * [1.3.3 Time值](<saml-co re-2.0-os/1-jie-shao/1.3-chang-jian-shu-ju-lei-xing/1.3.3-time-zhi.md>)
+    * [1.3.4 ID和ID引用值](<saml-co re-2.0-os/1-jie-shao/1.3-chang-jian-shu-ju-lei-xing/1.3.4-id-he-id-yin-yong-zhi.md>)
+* [2 SAML断言](<saml-co re-2.0-os/2-saml-duan-yan/README.md>)
+  * [2.1 Schema头和命名空间声明](<saml-co re-2.0-os/2-saml-duan-yan/2.1-schema-tou-he-ming-ming-kong-jian-sheng-ming.md>)
+  * [2.2 名称标识符](<saml-co re-2.0-os/2-saml-duan-yan/2.2-ming-cheng-biao-shi-fu/README.md>)
+    * [2.2.1 元素\<BaseId>](<saml-co re-2.0-os/2-saml-duan-yan/2.2-ming-cheng-biao-shi-fu/2.2.1-yuan-su-baseid.md>)
+    * [2.2.2 复杂类型NameIDType](<saml-co re-2.0-os/2-saml-duan-yan/2.2-ming-cheng-biao-shi-fu/2.2.2-fu-za-lei-xing-nameidtype.md>)
+    * [2.2.3 元素\<NameId>](<saml-co re-2.0-os/2-saml-duan-yan/2.2-ming-cheng-biao-shi-fu/2.2.3-yuan-su-nameid.md>)
+    * [2.2.4 元素\<EncryptedID>](<saml-co re-2.0-os/2-saml-duan-yan/2.2-ming-cheng-biao-shi-fu/2.2.4-yuan-su-encryptedid.md>)
+    * [2.2.5 元素\<Issuer>](<saml-co re-2.0-os/2-saml-duan-yan/2.2-ming-cheng-biao-shi-fu/2.2.5-yuan-su-issuer.md>)
+  * [2.3 断言](<saml-co re-2.0-os/2-saml-duan-yan/2.3-duan-yan/README.md>)
+    * [2.3.1 元素\<AssertionIDRef>](<saml-co re-2.0-os/2-saml-duan-yan/2.3-duan-yan/2.3.1-yuan-su-assertionidref.md>)
+    * [2.3.2 元素\<AssertionURIRef>](<saml-co re-2.0-os/2-saml-duan-yan/2.3-duan-yan/2.3.2-yuan-su-assertionuriref.md>)
+    * [2.3.3 元素\<Assertion>](<saml-co re-2.0-os/2-saml-duan-yan/2.3-duan-yan/2.3.3-yuan-su-assertion.md>)
+    * [2.3.4 元素\<EncryptedAssertion>](<saml-co re-2.0-os/2-saml-duan-yan/2.3-duan-yan/2.3.4-yuan-su-encryptedassertion.md>)
+  * [2.4 主体](<saml-co re-2.0-os/2-saml-duan-yan/2.4-zhu-ti/README.md>)
+    * [2.4.1 元素\<Subject>](<saml-co re-2.0-os/2-saml-duan-yan/2.4-zhu-ti/2.4.1-yuan-su-subject.md>)
+    * [通知](<saml-co re-2.0-os/2-saml-duan-yan/2.4-zhu-ti/tong-zhi.md>)
