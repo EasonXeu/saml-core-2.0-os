@@ -7,6 +7,7 @@ description: 前言
 ### 关于维护
 
 + 当前由[义臻](https://yizhenn.gitbook.io/blog/)开发维护，欢迎有兴趣的朋友加入，一起普及身份体系的标准协议。
++ 对应[Github主页](https://github.com/EasonXeu/saml-core-2.0-os)
 
 
 ### 文档协议 
