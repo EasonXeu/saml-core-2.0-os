@@ -31,4 +31,6 @@
         * [2.4.1.2 元素\<SubjectConfirmationData>](2-SAML断言/2.4-主体/2.4.1-元素Subject/2.4.1.2-元素SubjectConfirmationData.md)
         * [2.4.1.3 复杂类型KeyInfoConfirmationDataType](2-SAML断言/2.4-主体/2.4.1-元素Subject/2.4.1.3-复杂类型KeyInfoConfirmationDataType.md)
         * [2.4.1.4 有密钥确认的主体的例子](2-SAML断言/2.4-主体/2.4.1-元素Subject/2.4.1.4-有密钥确认的主体的例子.md)
+  * [2.5 条件](2-SAML断言/2.5-条件/README.md)
+    * [2.5.1 元素\<Conditions>](2-SAML断言/2.5-条件/2.5.1-元素Conditions/README.md)
    
