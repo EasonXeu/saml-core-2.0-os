@@ -41,4 +41,5 @@
             * [2.5.1.6 元素\<ProxyRestriction\>](2-SAML断言/2.5-条件/2.5.1-元素Conditions/2.5.1.6-元素ProxyRestriction.md)
     * [2.6 建议](2-SAML断言/2.6-建议/README.md)
         * [2.6.1 元素\<Advice>](2-SAML断言/2.6-建议/2.6.1-元素Advice.md)
+    * [2.7 声明](2-SAML断言/2.7-声明/README.md)
    
