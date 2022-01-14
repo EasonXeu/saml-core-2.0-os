@@ -42,4 +42,7 @@
     * [2.6 建议](2-SAML断言/2.6-建议/README.md)
         * [2.6.1 元素\<Advice>](2-SAML断言/2.6-建议/2.6.1-元素Advice.md)
     * [2.7 声明](2-SAML断言/2.7-声明/README.md)
+        * [2.7.1 元素\<Statement\>](2-SAML断言/2.7-声明/2.7.1-元素Statement.md)
+        * [2.7.2 元素\<AuthnStatement\>](2-SAML断言/2.7-声明/2.7.2-元素AuthnStatement/README.md)
+
    
