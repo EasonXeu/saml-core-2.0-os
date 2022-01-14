@@ -47,7 +47,7 @@
             * [2.7.2.1 元素\<SubjectLocality\>](2-SAML断言/2.7-声明/2.7.2-元素AuthnStatement/2.7.2.1-元素SubjectLocality.md)
             * [2.7.2.2 元素\<AuthnContext\>](2-SAML断言/2.7-声明/2.7.2-元素AuthnStatement/2.7.2.2-元素AuthnContext.md)
         * [2.7.3 元素\<AttributeStatement\>](2-SAML断言/2.7-声明/2.7.3-元素AttributeStatement/README.md)
-            * [2.7.3.1 元素\<Attribute\>](2-SAML断言/2.7-声明/2.7.3-元素AttributeStatement/README.md)
+            * [2.7.3.1 元素\<Attribute\>](2-SAML断言/2.7-声明/2.7.3-元素AttributeStatement/2.7.3.1-元素Attribute/README.md)
 
 
    
