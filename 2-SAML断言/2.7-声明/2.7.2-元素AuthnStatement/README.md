@@ -4,7 +4,7 @@ description: 本博客采用知识共享署名 4.0 国际许可协议进行许�
 
 # 2.7.2 元素\<AuthnStatement\>
 
-\<AuthnStatement\>元素用于描述SAML权威机构的声明，该声明断言了当前断言主体是在特定的时间以特定的方式被认证的。包含\<AuthnStatement\>元素的断言必须包含一个\<Subject\>元素。
+\<AuthnStatement\>元素用于描述SAML权威机构的声明，该声明断言了当前断言主体是在特定的时间以特定的方式被认证的。包含\<AuthnStatement\>元素的断言必须包含\<Subject\>元素。
 
 它是```AuthnStatementType```类型的，该类型继承自```StatementAbstractType```类型，并且增加了以下的元素和属性：
 

@@ -1,0 +1,5 @@
+---
+description: 本博客采用知识共享署名 4.0 国际许可协议进行许可
+---
+
+# 2.7.4 元素\<AuthzDecisionStatement\>
