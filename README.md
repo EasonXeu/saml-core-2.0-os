@@ -7,7 +7,7 @@ description: 前言
 ## 关于维护
 
 * 本文档全文翻译自[saml-core-2.0-os](https://docs.oasis-open.org/security/saml/v2.0/saml-core-2.0-os.pdf)
-* 当前由[义臻](https://www.zhihu.com/people/hulianwangzhaopin)开发维护，欢迎有兴趣的朋友加入，一起普及身份体系的标准协议。
+* 当前由[义臻](https://www.zhihu.com/people/hulianwangzhaopin)开发维护，欢迎有兴趣的朋友加入，一起普及身份体系的标准协议，推进企业IT数字化进程。
 * 对应[Github主页](https://github.com/EasonXeu/saml-core-2.0-os)
 
 ## 文档协议
