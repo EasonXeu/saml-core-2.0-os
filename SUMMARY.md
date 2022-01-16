@@ -50,6 +50,7 @@
             * [2.7.3.1 元素\<Attribute\>](2-SAML断言/2.7-声明/2.7.3-元素AttributeStatement/2.7.3.1-元素Attribute/README.md)
                 * [2.7.3.1.1 元素\<AttributeValue\>](2-SAML断言/2.7-声明/2.7.3-元素AttributeStatement/2.7.3.1-元素Attribute/2.7.3.1.1-元素AttributeValue.md)
             * [2.7.3.2 元素\<EncryptedAttribute\>](2-SAML断言/2.7-声明/2.7.3-元素AttributeStatement/2.7.3.2-元素EncryptedAttribute.md) 
+        * [2.7.4 元素\<AuthzDecisionStatement\>](2-SAML断言/2.7-声明/2.7.4-元素AuthzDecisionStatement/README.md)
 
 
   
