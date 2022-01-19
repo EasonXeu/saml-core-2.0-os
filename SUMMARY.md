@@ -54,6 +54,11 @@
             * [2.7.4.1 简单类型DecisionType](2-SAML断言/2.7-声明/2.7.4-元素AuthzDecisionStatement/2.7.4.1-简单类型DecisionType.md)
             * [2.7.4.2 元素\<Action\>](2-SAML断言/2.7-声明/2.7.4-元素AuthzDecisionStatement/2.7.4.2-元素Action.md)
             * [2.7.4.3 元素\<Evidence\>](2-SAML断言/2.7-声明/2.7.4-元素AuthzDecisionStatement/2.7.4.3-元素Evidence.md)
+* [3 SAML协议](3-SAML协议/README.md)
+    * [3.1 Schema头和命名空间声明](3-SAML协议/3.1-Schema头和命名空间声明.md)
+    * [3.2 请求和响应](3-SAML协议/3.2-请求和响应/README.md)
+        * [3.2.1 复杂类型RequestAbstractType](3-SAML协议/3.2-请求和响应/3.2.1-复杂类型RequestAbstractType.md)
+        * [3.2.2 复杂类型StatusResponseType](3-SAML协议/3.2-请求和响应/3.2.2-复杂类型StatusResponseType.md)
 
 
   
