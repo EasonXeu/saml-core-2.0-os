@@ -58,7 +58,11 @@
     * [3.1 Schema头和命名空间声明](3-SAML协议/3.1-Schema头和命名空间声明.md)
     * [3.2 请求和响应](3-SAML协议/3.2-请求和响应/README.md)
         * [3.2.1 复杂类型RequestAbstractType](3-SAML协议/3.2-请求和响应/3.2.1-复杂类型RequestAbstractType.md)
-        * [3.2.2 复杂类型StatusResponseType](3-SAML协议/3.2-请求和响应/3.2.2-复杂类型StatusResponseType.md)
+        * [3.2.2 复杂类型StatusResponseType](3-SAML协议/3.2-请求和响应/3.2.2-复杂类型StatusResponseType/README.md)
+            * [3.2.2.1 元素Status](3-SAML协议/3.2-请求和响应/3.2.2-复杂类型StatusResponseType/3.2.2.1-元素Status.md)
+            * [3.2.2.2 元素StatusCode](3-SAML协议/3.2-请求和响应/3.2.2-复杂类型StatusResponseType/3.2.2.2-元素StatusCode.md)
+            * [3.2.2.2 元素StatusMessage](3-SAML协议/3.2-请求和响应/3.2.2-复杂类型StatusResponseType/3.2.2.2-元素StatusMessage.md)
+            * [3.2.2.3 元素StatusDetail](3-SAML协议/3.2-请求和响应/3.2.2-复杂类型StatusResponseType/3.2.2.2-元素StatusDetail.md)
 
 
   
