@@ -61,8 +61,8 @@
         * [3.2.2 复杂类型StatusResponseType](3-SAML协议/3.2-请求和响应/3.2.2-复杂类型StatusResponseType/README.md)
             * [3.2.2.1 元素Status](3-SAML协议/3.2-请求和响应/3.2.2-复杂类型StatusResponseType/3.2.2.1-元素Status.md)
             * [3.2.2.2 元素StatusCode](3-SAML协议/3.2-请求和响应/3.2.2-复杂类型StatusResponseType/3.2.2.2-元素StatusCode.md)
-            * [3.2.2.2 元素StatusMessage](3-SAML协议/3.2-请求和响应/3.2.2-复杂类型StatusResponseType/3.2.2.2-元素StatusMessage.md)
-            * [3.2.2.3 元素StatusDetail](3-SAML协议/3.2-请求和响应/3.2.2-复杂类型StatusResponseType/3.2.2.2-元素StatusDetail.md)
+            * [3.2.2.3 元素StatusMessage](3-SAML协议/3.2-请求和响应/3.2.2-复杂类型StatusResponseType/3.2.2.3-元素StatusMessage.md)
+            * [3.2.2.4 元素StatusDetail](3-SAML协议/3.2-请求和响应/3.2.2-复杂类型StatusResponseType/3.2.2.4-元素StatusDetail.md)
 
 
   
