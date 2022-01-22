@@ -73,6 +73,7 @@
             * [3.3.2.4 元素AuthzDecisionQuery](3-SAML协议/3.3-断言查询和请求协议/3.3.2-查询/3.3.2.4-元素AuthzDecisionQuery.md)
         * [3.3.3 元素Response](3-SAML协议/3.3-断言查询和请求协议/3.3.3-元素Response.md)
         * [3.3.4 处理规则](3-SAML协议/3.3-断言查询和请求协议/3.3.4-处理规则.md)
+    * [3.4 认证请求协议](3-SAML协议/3.4-认证请求协议/README.md)
 
 
   
