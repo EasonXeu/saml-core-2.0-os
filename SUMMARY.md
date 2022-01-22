@@ -63,6 +63,11 @@
             * [3.2.2.2 元素StatusCode](3-SAML协议/3.2-请求和响应/3.2.2-复杂类型StatusResponseType/3.2.2.2-元素StatusCode.md)
             * [3.2.2.3 元素StatusMessage](3-SAML协议/3.2-请求和响应/3.2.2-复杂类型StatusResponseType/3.2.2.3-元素StatusMessage.md)
             * [3.2.2.4 元素StatusDetail](3-SAML协议/3.2-请求和响应/3.2.2-复杂类型StatusResponseType/3.2.2.4-元素StatusDetail.md)
+    * [3.3 断言查询和请求协议](3-SAML协议/3.3-断言查询和请求协议/README.md)
+        * [3.3.1 元素AssertionIDRequest](3-SAML协议/3.3-断言查询和请求协议/3.3.1-元素AssertionIDRequest.md)
+        * [3.3.2 查询](3-SAML协议/3.3-断言查询和请求协议/3.3.2-查询/README.md)
+            * [3.3.2.1 元素SubjectQuery](3-SAML协议/3.3-断言查询和请求协议/3.3.2-查询/3.3.2.1-元素SubjectQuery.md)
+
 
 
   
