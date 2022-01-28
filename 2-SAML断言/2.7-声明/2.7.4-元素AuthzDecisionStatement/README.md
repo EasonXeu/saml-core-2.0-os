@@ -6,7 +6,7 @@ description: 本博客采用知识共享署名 4.0 国际许可协议进行许�
 
 > 注意：\<AuthzDecisionStatement\>特性在SAML 2.0版本中已经冻结了，未来没有进行功能增强的计划。需要额外功能的用户可能需要使用可扩展的访问控制标记语言[XACML]，它能提供增强的授权决策能力。
 
-\<AuthzDecisionStatement\>元素描述了SAML机构的一条语句，该语句声称已经基于一些证据就断言主体能够访问指定的资源做出了授权决定。包含\<AuthzDecisionStatement\>元素的断言必须包含\<Subject\>元素。
+\<AuthzDecisionStatement\>元素描述了SAML机构的一条语句，该语句声称已经基于一些证据就断言主体能够访问指定的资源做出了授权决策。包含\<AuthzDecisionStatement\>元素的断言必须包含\<Subject\>元素。
 
 资源是通过URI引用来进行标识的。为了能够正确且安全地解析断言，SAML机构和SAML依赖方必须以一致的方式解释每一个URI引用。如果不能实现一致的URI引用解释，那么，资源URI引用的编码的不同就可能会导致不同的授权决策。在[RFC 2396]第6节中可以找到规范化URI引用的规则：
 
@@ -34,7 +34,7 @@ URI引用解释不一致也可能是由于URI引用语法和底层文件系统�
 
 + Decision [必须]
 
-SAML机构对指定资源做出的授权决定。其值是```DecisionType```简单类型。
+SAML机构对指定资源做出的授权决策。其值是```DecisionType```简单类型。
 
 + \<Action\> [一个或更多]
 
@@ -42,7 +42,7 @@ SAML机构对指定资源做出的授权决定。其值是```DecisionType```简�
 
 + \<Evidence\> [可选]
 
-SAML机构在做出授权决定时所依赖的一组断言。
+SAML机构在做出授权决策时所依赖的一组断言。
 
 下列的schema片段定义了\<AuthzDecisionStatement\>元素以及它的```AuthzDecisionStatementType```复杂类型：
 
