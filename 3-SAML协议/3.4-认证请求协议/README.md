@@ -36,5 +36,5 @@ description: 本博客采用知识共享署名 4.0 国际许可协议进行许�
 
 向其发出请求并从其接收响应的实体。
 
-> 译者（义臻）注：根据笔者的理解，假设这样的一个场景，用户甲在使用云版Office服务，首先通过微软的AD进行了登录。那么```Requester```指的是云版Office服务，```Requested Subject```是用户甲，```Relying Party```指的是云版Office服务，```Identity Provider```指的是AD服务，```Presenter```指的是用户甲及其所使用的UserAgent，```Attesting Entity```指的是AD服务。
+> 译者（义臻）注：根据笔者的理解，假设这样的一个场景，用户甲在使用云版Office服务，首先通过微软的AD进行了登录。那么```Requester```指的是云版Office服务，```Requested Subject```是用户甲，```Relying Party```指的是云版Office服务，```Identity Provider```指的是AD服务，```Presenter```指的是用户甲及其所使用的UserAgent，```Attesting Entity```指的是AD服务中的认证部分。
 
