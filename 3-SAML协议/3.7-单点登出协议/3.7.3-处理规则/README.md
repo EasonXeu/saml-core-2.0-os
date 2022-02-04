@@ -2,6 +2,18 @@
 description: 本博客采用知识共享署名 4.0 国际许可协议进行许可
 ---
 
-# 3.7.3.1 Session Participant Rules
+# 3.7.3 处理规则
 
-TODO
+消息发送方可以使用```Reason```属性来说明发送\<LogoutRequest\>消息的原因。以下值由本规范定义，供所有消息发送者使用；其他的值可在参与者之间达成一致后使用。
+
++ urn:oasis:names:tc:SAML:2.0:logout:user
+
+说明消息被发送是因为主体希望终止指定的会话。
+
++ urn:oasis:names:tc:SAML:2.0:logout:admin
+
+说明消息被发送是因为管理员希望终止该主体的指定会话。
+
+与底层请求和响应消息相关的所有其他处理规则也必须遵守。
+
+以下章节提供了其他处理规则。
